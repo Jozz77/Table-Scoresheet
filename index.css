@@ -1,0 +1,49 @@
+body {
+    background-color: #eee;
+}
+header {
+    text-align: center;
+    line-height: 0.8;
+}
+main {
+    text-align: center;
+    display: block;
+    padding: 20px;
+}
+.row {
+background-color: bisque;
+}
+.rozz {
+background-color: aquamarine;
+}
+.excellent {
+    background-color: rgb(141, 238, 141) !important;
+}
+.normal {
+    background-color: rgb(233, 233, 89) !important;
+}
+.fail {
+    background-color: rgb(245, 115, 115) !important;
+}
+.rowhead {
+    background-color: rgb(221, 82, 175);
+    font-size: large;
+}
+table {
+    border-spacing: 5px;
+}
+th, td {
+    padding: 5px;
+  }
+  #Benedict {
+      font-size: 3em;
+  }
+  #results {
+      font-size: 2em;
+  }
+  #teacher {
+      font-size: 1.5em;
+  }
+  footer {
+      color: blue;
+  }
